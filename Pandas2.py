@@ -4,3 +4,5 @@ file_path = (r"C:\Users\Sreenath_Narayana_re\OneDrive - Dell Technologies\Pictur
 apple_stocks = pd.read_csv(file_path)
 print(apple_stocks.head())
 print()
+
+
